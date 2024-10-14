@@ -1,18 +1,21 @@
-
 # Overview
 
-This repository contains and data and scripts for reproducing the results accompanying the manuscript  
+Higher-order covariance matrix factorization (HCMF) is a framework that efficiently computes the inverse of a covariance matrix 
+or solves linear equations involving covariance matrices. The HCMF method reduces computational time by a factor of 10^4-10^5 
+and significantly reduces memory requirements. By leveraging this computational advantage, we can infer epistatic interactions 
+between alleles (genetic variables) from full-scale temporal viral genetic sequence evolution. For more information, see the paper [__INSERT LINK HERE__], 
+which details the mathematical framework, implementation specifics, and uncovered epistatic patterns in longitudinal intrahost HIV evolution.
 
-### Title of paper
-Author One<sup>1</sup>, Author Two<sup>2</sup>, and John P. Barton<sup>1,2,#</sup>
 
-<sup>1</sup> Department of Physics and Astronomy, University of California, Riverside  
-<sup>2</sup> Department of Computational and Systems Biology, University of Pittsburgh School of Medicine  
+### Efficient epistasis inference via higher-order covariance matrix factorization 
+Kai S. Shimagaki<sup>1,2</sup> and John P. Barton<sup>1,2,#</sup>
+
+<sup>1</sup> Department of Computational and Systems Biology, University of Pittsburgh School of Medicine, USA.  
+<sup>2</sup> Department of Physics and Astronomy, University of Pittsburgh, USA.  
 <sup>#</sup> correspondence to [jpbarton@pitt.edu](mailto:jpbarton@pitt.edu)  
 
-The preprint is available at __INSERT LINK HERE__.
-
 # Contents
+
 
 Describe the contents of the repository, and which pieces do what. You can use code text to refer to specific files or directories, like this: `a_file.ipynb`, `a_folder/`. In this template, the `figures.ipynb` contains a template Jupyter notebook for reproducing the figures accompanying the paper. Generally, the generated figures should be placed in the `figures/` directory.
 
