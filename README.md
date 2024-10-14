@@ -14,8 +14,7 @@ Kai S. Shimagaki<sup>1,2</sup> and John P. Barton<sup>1,2,#</sup>
 <sup>2</sup> Department of Physics and Astronomy, University of Pittsburgh, USA.  
 <sup>#</sup> correspondence to [jpbarton@pitt.edu](mailto:jpbarton@pitt.edu)  
 
-# Contents
-
+<!-- # Contents
 
 Describe the contents of the repository, and which pieces do what. You can use code text to refer to specific files or directories, like this: `a_file.ipynb`, `a_folder/`. In this template, the `figures.ipynb` contains a template Jupyter notebook for reproducing the figures accompanying the paper. Generally, the generated figures should be placed in the `figures/` directory.
 
@@ -31,7 +30,7 @@ To sync the above folders on GitHub, placeholder files have been placed in the `
 
 ### Software dependencies
 
-Here's an example statement about the need for external software to execute any part of the code: Parts of the analysis are implemented in C++11 and the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
+Here's an example statement about the need for external software to execute any part of the code: Parts of the analysis are implemented in C++11 and the [GNU Scientific Library](https://www.gnu.org/software/gsl/). -->
 
 # License
 
