@@ -3,7 +3,7 @@
 Higher-order covariance matrix factorization (HCMF) is a framework that efficiently computes the inverse of a covariance matrix 
 or solves linear equations involving covariance matrices. The HCMF method reduces computational time by a factor of 10^4-10^5 
 and significantly reduces memory requirements. By leveraging this computational advantage, we can infer epistatic interactions 
-between alleles (genetic variables) from full-scale temporal viral genetic sequence evolution. For more information, see the paper [__INSERT LINK HERE__], 
+between alleles (genetic variables) from full-scale temporal viral genetic sequence evolution. For more information, see [the paper](https://doi.org/10.1101/2024.10.14.618287), 
 which details the mathematical framework, implementation specifics, and uncovered epistatic patterns in longitudinal intrahost HIV evolution.
 
 
